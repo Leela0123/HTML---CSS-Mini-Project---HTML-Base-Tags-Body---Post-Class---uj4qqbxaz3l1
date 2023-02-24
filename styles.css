@@ -73,10 +73,13 @@ html {
     background-color: #111;
     color: #fff;
     padding: 20px;
+    width: 60vw;
+    margin: 0 auto;
 }
 
 .ptext .border.trans {
     background-color: transparent;
+    
 }
 
 
