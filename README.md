@@ -8,6 +8,8 @@ Written Description:
 
 
 The whole project  consists of two parts:
+
+
 1.HTML PART 
 this part gives basic layout to the website by adding diferent html tags 
 
